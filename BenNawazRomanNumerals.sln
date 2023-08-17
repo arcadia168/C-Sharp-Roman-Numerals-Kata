@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "***REMOVED******REMOVED***RomanNumerals", "***REMOVED******REMOVED***RomanNumerals\***REMOVED******REMOVED***RomanNumerals.csproj", "{0329A8F6-65D4-4315-91FB-1F8F4B16FCF5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErinElandRomanNumerals", "ErinElandRomanNumerals\ErinElandRomanNumerals.csproj", "{0329A8F6-65D4-4315-91FB-1F8F4B16FCF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "***REMOVED******REMOVED***RomanNumeralsTest", "***REMOVED******REMOVED***RomanNumerals\UnitTestProject1\***REMOVED******REMOVED***RomanNumeralsTest.csproj", "{227FDC79-FF19-4F27-A8F7-70D179C72368}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErinElandRomanNumeralsTest", "ErinElandRomanNumerals\UnitTestProject1\ErinElandRomanNumeralsTest.csproj", "{227FDC79-FF19-4F27-A8F7-70D179C72368}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

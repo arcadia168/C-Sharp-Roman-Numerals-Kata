@@ -7,8 +7,8 @@
     <ProjectGuid>{0329A8F6-65D4-4315-91FB-1F8F4B16FCF5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>***REMOVED******REMOVED***RomanNumerals</RootNamespace>
-    <AssemblyName>***REMOVED******REMOVED***RomanNumerals</AssemblyName>
+    <RootNamespace>ErinElandRomanNumerals</RootNamespace>
+    <AssemblyName>ErinElandRomanNumerals</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

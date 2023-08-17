@@ -54,9 +54,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\***REMOVED******REMOVED***RomanNumerals.csproj">
+    <ProjectReference Include="..\ErinElandRomanNumerals.csproj">
       <Project>{0329a8f6-65d4-4315-91fb-1f8f4b16fcf5}</Project>
-      <Name>***REMOVED******REMOVED***RomanNumerals</Name>
+      <Name>ErinElandRomanNumerals</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ***REMOVED******REMOVED***RomanNumerals
+namespace ErinElandRomanNumerals
 {
     public interface IRomanNumeralGenerator
     {

@@ -1,8 +1,8 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ***REMOVED******REMOVED***RomanNumerals;
+using ErinElandRomanNumerals;
 
-namespace ***REMOVED******REMOVED***RomanNumeralGeneratorTests
+namespace ErinElandRomanNumeralGeneratorTests
 {
     [TestClass]
     public class GenerateRomanNumeralsTests
